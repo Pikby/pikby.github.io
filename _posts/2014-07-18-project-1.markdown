@@ -1,12 +1,11 @@
 ---
+title: Source Mapping
 layout: default
 modal-id: 1
 date: 2014-07-18
-default-img: circus.png
-gallery-list: circus.png, cake.png, cabin.png, cake.png
-client: test
+default-img: mapping/8.jpg
+gallery-list: mapping/1.jpg, mapping/2.jpg, mapping/3.jpg, mapping/4.jpg, mapping/5.jpg, mapping/6.jpg, mapping/7.jpg, mapping/8.jpg, mapping/9.jpg, mapping/10.jpg, mapping/11.jpg
 alt: image-alt
-project-date: April 2014
-category: TESTING
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: 2015-2017
+description: My first experience working in 3D space can be traced back to the numerous hours using valve's Hammer Editor to create Counter Strike Global Offensive custom maps. Although many of the maps went unfinished, it was a great time and I learned alot about how to work in 3d environments, and most importantly how to optimize, due to how old the source engine really is. Many of the maps I had experimented with would often boast a very unconventional level design. Despite still following the basic level design such as popular maps like dust2, I had tried different ideas, such as an inverted 'vertigo' style map where the attacking team started above the defending team. Overall it was a great experience and really what got me into 3d graphics
 ---
