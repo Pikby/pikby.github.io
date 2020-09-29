@@ -1,12 +1,8 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
 default-img: gamejams/GameJamsTitle.png
-gallery-list: gamejams/GameJam1.png, gamejams/GameJam2.png, gamejams/GameJam3.png, gamejams/GameJam4.png, gamejams/GameJam5.png, gamejams/GameJam6.png, gamejams/GameJam7.png,
+gallery-list: gamejams/GameJam1.png, gamejams/GameJam2.png, gamejams/GameJam3.png, gamejams/GameJam4.png, gamejams/GameJam5.png, gamejams/GameJam6.png, gamejams/GameJam7.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: My first real attempts at small coding projects were my game jams. Ive done quite a few so far, and in the gallery you can see them, as well as all 4 of them are available for download <a href="https://drive.google.com/file/d/1j5ipdhd-GYX6Fd1ttCWyRFq0hq1vGc1E/view?usp=sharing">here</a>. These games range from simple brick breaker games, to more complex puzzle platformers and action games. My favourite game that has ever come from a game jam i've made is Echo through the Aztec. The main mechanic in that game functioned very similarly to that of portals momentum conservation, and it was by far the most fun to playtest and mess around with. One day I've had thoughts of basing an entire game around that mechanic as it felt really satisfying to learn and mess around with. Most of these game jams were done in 72 hour and done with a friend, or a small group of friends, and were some of the most stressful, yet enjoyable memories.
 ---

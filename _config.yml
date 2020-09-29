@@ -1,9 +1,8 @@
 # Site settings
 title: Jacob Jensen's Portfolio
 email: jacobjensenCG@gmail.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Kibby's website UWU"
-keywords: "gamer, gamer, gamer gamer gamer"
+url: https://github.com/Pikby
+description: "Jacob Jensen's Portfolio Website"
 skills: "Computer Graphics Engineer - Video Game Designer"
 meta_author: Jacob Jensen
 
@@ -45,7 +44,7 @@ social:
 
 
 # Credits content
-credits: 'The intial template for the website <a href="http://startbootstrap.com">Start Bootstrap</a>. all modifications are done myself '
+credits: 'The intial template for the website can be found <a href="http://startbootstrap.com">Start Bootstrap</a>. all modifications are done myself '
 
 # Build settings
 markdown: kramdown

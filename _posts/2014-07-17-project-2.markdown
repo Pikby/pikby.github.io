@@ -8,6 +8,5 @@ gallery-list: abyss/abyss1.png, abyss/abyss2.png, abyss/abyss3.png, abyss/abyss4
 client: test
 alt: image-alt
 project-date: 2017-present
-category: TESTING
-description: Test
+description: By far my most ambitious project with over 5000+ lines of code written by myself, <a href="https://github.com/Pikby/TheAbyss"> The Abyss </a>. This project taught many things, such as how to write Opengl code from scratch, designing and implementing graphics pipe lining. There was so many techniques tried, implemented changed, that its difficult to cover, for example I had implemented cascaded shadow mapping, and then afterwards changed the entire render pipeline forcing a rewrite. A side branch of this project was a separate GUI library <a href="https://github.com/Pikby/TheAbyssGUI"> GUI library </a> I had also coded from scratch. I had found there was a distinct lack of usuable C++ GUI libraries, so in typical C fashion I tried to code my own. This project has taught me so much, that even if I never finish it, the time spent learning so many fundamental graphics ideas was worth it. I wrote a good <a href="https://github.com/Pikby/TheAbyssGUI"> doc <\a> covering my implementation of everything 
 ---
