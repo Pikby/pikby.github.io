@@ -1,12 +1,13 @@
 ---
+title: The Abyss
 layout: default
 modal-id: 2
-date: 2014-07-18
-default-img: circus.png
-gallery-list: circus.png, cake.png, cabin.png, cake.png
+
+default-img: abyss/AbyssTitle.png
+gallery-list: abyss/abyss1.png, abyss/abyss2.png, abyss/abyss3.png, abyss/abyss4.png
 client: test
 alt: image-alt
-project-date: April 2014
+project-date: 2017-present
 category: TESTING
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Test
 ---

@@ -2,8 +2,7 @@
 title: Source Mapping
 layout: default
 modal-id: 1
-date: 2014-07-18
-default-img: mapping/8.jpg
+default-img: mapping/title.jpg
 gallery-list: mapping/1.jpg, mapping/2.jpg, mapping/3.jpg, mapping/4.jpg, mapping/5.jpg, mapping/6.jpg, mapping/7.jpg, mapping/8.jpg, mapping/9.jpg, mapping/10.jpg, mapping/11.jpg
 alt: image-alt
 project-date: 2015-2017

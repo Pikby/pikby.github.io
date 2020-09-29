@@ -2,8 +2,8 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-default-img: game.png
-gallery-list: cabin.png, cake.png, cabin.png, cake.png
+default-img: gamejams/GameJamsTitle.png
+gallery-list: gamejams/GameJam1.png, gamejams/GameJam2.png, gamejams/GameJam3.png, gamejams/GameJam4.png, gamejams/GameJam5.png, gamejams/GameJam6.png, gamejams/GameJam7.png,
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

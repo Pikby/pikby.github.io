@@ -87,6 +87,7 @@ body {
                             <hr class="star-primary">
                             <!-- The grid: four columns -->
 
+          {% if post.gallery-list%}
                             <div style="text-align:center">
                               <h2>Gallery</h2>
                               <p>Click on the images below:</p>
@@ -94,14 +95,16 @@ body {
 
                             <!-- The expanding image container -->
 
+
                             <div class="containerGal">
                               <!-- Close the image -->
                               <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
 
                               <!-- Expanded image -->
-                              <img id="expandedImg" style="width:100%">
+                              <img id="expandedImg{{post.modal-id}}" style="width:100%">
 
                               <!-- Image text -->
+
                               <div id="imgtext"></div>
                             </div>
 
@@ -111,16 +114,15 @@ body {
 
                               {% for img in imglist %}
                               <div class="columnGal">
-
-                                <img src="img/portfolio/{{ img }}" style="width:100%" alt="{{ img }}" onclick="myFunction(this);" onload="myFunction(this);">
+                                <img src="img/portfolio/{{ img }}" style="width:100%" alt="{{ img }}" onclick="myFunction(this,{{ post.modal-id }});" >
                               </div>
                               {% endfor %}
                             </div>
 
 
                             <script>
-                            function myFunction(imgs) {
-                              var expandImg = document.getElementById("expandedImg");
+                            function myFunction(imgs,num) {
+                              var expandImg = document.getElementById("expandedImg" + num);
                               var imgText = document.getElementById("imgtext");
                               expandImg.src = imgs.src;
                               imgText.innerHTML = imgs.alt;
@@ -129,6 +131,7 @@ body {
 
                             </script>
 
+                            {% endif %}
                             {% if post.description %}
                                 <p>{{ post.description }}</p>
                             {% endif %}
@@ -136,10 +139,7 @@ body {
 
                             <ul class="list-inline item-details">
 
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
-                                    </strong>
-                                </li>
+
                                 {% if post.project-date %}
                                     <li>Date:
                                         <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>

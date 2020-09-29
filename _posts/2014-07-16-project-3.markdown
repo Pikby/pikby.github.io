@@ -1,12 +1,10 @@
 ---
+title: Music Synthesization using Neural Networks
 layout: default
 modal-id: 3
-date: 2014-07-18
-default-img: cabin.png
-gallery-list: cabin.png, cake.png, cabin.png, cake.png
-client: test
+default-img: musicsynthtitle.png
 alt: image-alt
-project-date: April 2014
-category: TESTING
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: For a grad class at Simon Fraser University, I got together with a group of students to study music synthesization using neural networks. I was lucky enough to be tasked with taking existing neural networks and expanding on them, so for our project I took an <a href="https://github.com/Skuldur/Classical-Piano-Composer"> existing repository </a> and modified it to allow for more complex rhythms which can be seen  <a href="https://github.com/Pikby/Music-Synthesization-using-Neural-Networks"> here </a>. The results were very interesting as we managed to get pieces of music that very closely resembled randomly generated songs, however there was abit of overfitting. Our finding are summarized in a <a href="https://drive.google.com/file/d/1-DjZM-AKZkk0xNYOW3VARd-mQlsL9CKp/view?usp=sharing"> report. </a> Examples of the output music are <a href="https://drive.google.com/file/d/1rsGZFxEjRGopVM6hlrt_22vKTdyvw_BE/view?usp=sharing"> here </a> and <a href="https://drive.google.com/file/d/17f3KwEhswGr2YiwYRoIa-XbgcOf83e_X/view?usp=sharing"> here. </a>
+
+
 ---
